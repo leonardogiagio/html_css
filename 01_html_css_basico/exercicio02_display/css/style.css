@@ -1,0 +1,38 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	color: #fff;
+	margin: 0px;
+}
+
+.container {
+	background-color: #111;
+	padding: 20px;
+	max-width: 80%;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	border-radius: 4px;
+}
+
+p {
+	color: #b2b2b2;
+}
+
+.highlight {
+	color: #febe01;
+}
+
+.botao {
+	background-color: #febe01;
+	padding: 10px;
+	border: none;
+	border-radius: 4px;
+	color: #332200;
+	cursor: pointer;
+}
